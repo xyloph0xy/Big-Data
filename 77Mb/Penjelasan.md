@@ -8,4 +8,4 @@
 8. hadoop fs -put gabung.txt input
 9. hadoop jar hadoop-mapreduce-examples-2.7.1-sources.jar org.apache.hadoop.examples.WordCount input output77
 10. hadoop fs -ls output77/, output: ![map reduce](https://github.com/xyloph0xy/Big-Data/assets/92715425/e2f02516-0a4c-4041-b699-48d44e6616da)
-11. hadoop fs -cat output77/part-r-00000, hasil : 
+11. hadoop fs -cat output77/part-r-00000, hasil : ![hasil77](https://github.com/xyloph0xy/Big-Data/assets/92715425/0252f700-6ffa-49c2-ac7b-9917fff26cfe)
