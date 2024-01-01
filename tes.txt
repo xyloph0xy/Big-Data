@@ -1,0 +1,18 @@
+hdfs dfs -cat output/part-r-00000
+2024-01-01 16:26:57,822 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false
+Jogja,  1
+Mahasiswa       1
+adalah  1
+berasal 1
+di      1
+digital 2
+hadoop  1
+indonesia       2
+kampus  1
+kuliah  1
+mahasiswa       1
+salah   1
+satu    1
+sedang  1
+teknologi       2
+universitas     2
